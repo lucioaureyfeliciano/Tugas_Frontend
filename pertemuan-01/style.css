@@ -178,9 +178,9 @@ nav a:hover {
 
 .tools-row {
     display: flex;
-    flex-wrap: wrap;
     justify-content: center;
     gap: 12px;
+    align-items: center;
 }
 
 .tool-badge {
